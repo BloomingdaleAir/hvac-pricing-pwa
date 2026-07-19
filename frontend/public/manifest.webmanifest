@@ -1,0 +1,11 @@
+{
+  "name": "HVAC Service Pricing Calculator",
+  "short_name": "HVAC Pricing",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#163a5f",
+  "icons": [
+    {"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
